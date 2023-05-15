@@ -1,4 +1,4 @@
-baseURL = "https://localhost:1313/subdir"
+baseURL = "https://master--lovely-squirrel-5b5bf3.netlify.app/"
 title = "Puppet"
 
 theme = "puppet"
